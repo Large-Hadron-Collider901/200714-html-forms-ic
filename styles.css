@@ -1,0 +1,9 @@
+body {
+  background-color: gainsboro;
+  position: absolute;
+  left: 580px;
+}
+
+#submit {
+  background-color: rgb(112, 223, 112);
+}
